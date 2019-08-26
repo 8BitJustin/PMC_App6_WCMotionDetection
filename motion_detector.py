@@ -21,7 +21,6 @@ while True:
 
     key = cv2.waitKey(1)
     print(gray)
-    print(check)
 
     if key == ord('q'):
         break
