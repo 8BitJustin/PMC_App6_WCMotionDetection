@@ -1,7 +1,6 @@
 import cv2
 
 first_frame = None
-
 video = cv2.VideoCapture(0)
 
 while True:
